@@ -2,7 +2,7 @@
     * @description      : 
     * @author           : ellen
     * @group            : 
-    * @created          : 27/01/2023 - 08:32:05
+    * @created          : 27/01/2023 - 08:36:47
     * 
     * MODIFICATION LOG
     * - Version         : 1.0.0
@@ -10,6 +10,7 @@
     * - Author          : ellen
     * - Modification    : 
 **/
+
 import React from 'react'
 
 import './styles/Main.css'
